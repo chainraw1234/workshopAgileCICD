@@ -1,4 +1,4 @@
-name: FILEBASE_TOKEN
+name: Deploy to Firebase Hosting
 
 on:
 push:
